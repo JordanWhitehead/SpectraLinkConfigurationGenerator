@@ -36,6 +36,7 @@ ASSISTANCE
 ----------
 
 If you need any assistance using this, please feel free to reach out to me by email: jordanwhthd@gmail.com
+
 I cannot help you with deployments of SpectraLink infrastructure, but I would be glad to help you fill in the blanks for the parameters of these .cfg files as they relate to your environment. 
 
 License
