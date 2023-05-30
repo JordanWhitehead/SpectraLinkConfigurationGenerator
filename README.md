@@ -32,7 +32,7 @@ To use SpectraConfCreator, follow these steps:
 
 6. Once the files are created, their details (file path and last write time) will be displayed.
 
-ASSISTANCE
+Assistance
 ----------
 
 If you need any assistance using this, please feel free to reach out to me by email: jordanwhthd@gmail.com
